@@ -1,3 +1,5 @@
+Created following [serverless-stack](https://serverless-stack.com/chapters/add-a-create-note-api.html) tutorial
+
 # Serverless Node.js Starter
 
 A Serverless starter that adds ES7 syntax, serverless-offline, linting, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
