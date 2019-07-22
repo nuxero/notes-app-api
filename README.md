@@ -1,4 +1,4 @@
-Created following [serverless-stack](https://serverless-stack.com/chapters/add-a-create-note-api.html) tutorial
+Created following [serverless-stack](https://serverless-stack.com/) tutorial
 
 # Serverless Node.js Starter
 
